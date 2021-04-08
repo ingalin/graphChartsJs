@@ -2,6 +2,8 @@
 
 Stack used - JavaScript, React, Charts.js, HTML, CSS
 
+View Live - https://suspicious-dijkstra-328f2a.netlify.app/ 
+
 
 ## Getting Started with Create React App
 
